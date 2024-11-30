@@ -20,3 +20,4 @@ export function ProfilePreview(profile) {
 
   return preview;
 }
+const previewShort2 = "Hello world";
