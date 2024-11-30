@@ -20,3 +20,8 @@ export function ProfilePreview(profile) {
 
   return preview;
 }
+const profilePreview = {
+  pictureSrc : String,
+  name : String,
+  bio : String
+}
